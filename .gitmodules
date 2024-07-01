@@ -16,3 +16,6 @@
 [submodule "configs/IT-DTC_p1_VU13p-1/it-dtc-fw"]
 	path = configs/IT-DTC_p1_VU13p-1/it-dtc-fw
 	url = https://gitlab.com/apollo-lhc/it-dtc/it-dtc-fw.git
+[submodule "src/tt_combined"]
+	path = src/tt_combined
+	url = git@github.com:cms-L1TK/firmware-hls.git
